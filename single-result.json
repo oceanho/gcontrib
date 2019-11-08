@@ -1,0 +1,10 @@
+{
+  "succ": true,
+  "code": 0,
+  "message": "",
+  "result": {
+    "uid": 1000000,
+    "name": "OceanHo",
+    "email": "gzhehai@foxmail.com"
+  }
+}

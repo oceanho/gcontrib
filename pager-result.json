@@ -1,0 +1,33 @@
+{
+  "succ": true,
+  "code": 0,
+  "message": "",
+  "result":{
+      "page_size": 100,
+      "page_no": 1,
+      "page_count": 10,
+      "total": 1000000,
+      "data": [
+        {
+          "uid": 1000000,
+          "name": "OceanHo",
+          "email": "gzhehai@foxmail.com"
+        },
+        {
+          "uid": 1000001,
+          "name": "OceanHo",
+          "email": "gzhehai@foxmail.com"
+        },
+        {
+          "uid": 1000002,
+          "name": "OceanHo",
+          "email": "gzhehai@foxmail.com"
+        },
+        {
+          "uid": 1000003,
+          "name": "OceanHo",
+          "email": "gzhehai@foxmail.com"
+        }
+      ]
+  }
+}
